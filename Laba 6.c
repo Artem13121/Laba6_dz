@@ -5,7 +5,7 @@
 int main() 
 {
     setlocale(LC_ALL, "Rus");
-    int n;
+    int a, b, c, n;  
     scanf("%d", &n);
 
     int a = n / 100;
@@ -18,9 +18,10 @@ int main()
     int p = a * b * c;
 
     if (p > 99 && p < 1000)
-        printf("Äà");
+        printf("Ð”Ð°");
     else
-        printf("Íåò");
+        printf("ÐÐµÑ‚");
 
     return 0;
+
 }
