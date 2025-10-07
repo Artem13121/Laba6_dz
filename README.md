@@ -3,7 +3,10 @@
 Дано число N (N<1000). Написать программу, которая проверяет является ли произведение его цифр трёхзначным числом.
 ### Блок-схема:
 <img width="286" height="700" alt="image" src="https://github.com/user-attachments/assets/9efc7c89-0593-4949-a7f2-25fb34243f10" />
+
+
 ### программа
+
 #define _CRT_SECURE_NO_DEPRECATE
 #include <stdio.h>
 #include <locale.h>
